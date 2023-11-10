@@ -16,7 +16,7 @@
 
 1. 克隆仓库到本地
 2. 确保你的计算机上安装了 Java 和 MySQL。
-3. 导入 `mysql-connector.jar` 到你的项目中。
+3. 导入 library下的`mysql-connector.jar` 到你的项目中。
 
 ## 使用说明 :
 
